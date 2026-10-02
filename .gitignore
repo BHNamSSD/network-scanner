@@ -37,3 +37,51 @@ build/
 
 ### Mac OS ###
 .DS_Store.idea/
+
+# Maven
+target/
+
+# Java build
+out/
+dist/
+*.class
+*.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
+
+# Java build
+out/
+dist/
+*.class
+*.jar
+
+# IntelliJ IDEA
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/shelf/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
